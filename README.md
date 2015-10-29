@@ -9,3 +9,6 @@ This plugin enables the user to copy/paste a variant.
 - Goto Extras => Extensions.
 - Enable & Install the plugin. 
 
+### Example of Copy Variant
+
+![copy variant](https://github.com/osscube-india/pimcore-plugin-copyvariants/blob/master/static/image/copy_variant.png)
