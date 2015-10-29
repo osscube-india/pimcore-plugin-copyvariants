@@ -5,8 +5,7 @@ This plugin enables the user to copy/paste a variant.
   - Copied variant can only be pasted into the same parent from where variant is being copied.
 
 ### Installation
+- Place the copy variant plugin into Pimcore plugins folder.
 - Goto Extras => Extensions.
-- Click on button Upload Plugin
-- And browse plugin zip file named CopyVariants.zip.
-- When plugin gets uploaded successfully then enable it.
+- Enable & Install the plugin. 
 
